@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://flora.db.elephantsql.com/ceodkljw
-    username:ceodkljw
+    username: ceodkljw
     password: ai9ECKVFexKo7K0V4v1LpKL0wnU_yYVP
   # JPA properties
   jpa:
